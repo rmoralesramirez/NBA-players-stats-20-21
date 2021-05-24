@@ -27,7 +27,7 @@ Variable preparation for graphs to represent the desired data
 
 ### VISUALIZATION
 
-Visualizations included:
+Visualizations included (available in the graph folder):
 - Top 5 faster players to score 20 pts by minutes played
 - Minutes played VS FG attempted to score 20 pts
 - Top 5 defenders by rate per 36 min
