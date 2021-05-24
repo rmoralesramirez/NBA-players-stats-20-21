@@ -43,7 +43,7 @@ players_stats["OFFR"] = round(
 )  # Offensive rate
 players_stats["OFFR36M"] = round(
     (players_stats.OFFR / players_stats.MP) * 36, 1
-)  # Offensuve rate per 36 minutes
+)  # Offensive rate per 36 minutes
 players_stats["DEFR"] = round(
     players_stats.DRB + players_stats.STL + players_stats.BLK - players_stats.PF, 1
 )  # Defensive rate
